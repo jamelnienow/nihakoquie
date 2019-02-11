@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aevuaph.gfbustamante.com/sitemap.xml
